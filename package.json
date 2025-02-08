@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@coders-tm/vue-number-format": "^3.35.2",
+    "animate.css": "^4.1.1",
     "axios": "^1.7.9",
     "bootstrap-vue": "^2.23.1",
     "core-js": "^3.8.3",
