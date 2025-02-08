@@ -1,0 +1,102 @@
+.router-link-exact-active {
+    font-weight: bold;
+    color: #fff;
+}
+
+.router-link-exact-active:hover {
+    font-weight: bold;
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.navbar-brand {
+    color: #fff !important;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2c3e50;
+    color: #fff !important;
+    background-image: url(images/error-page-pattern.png) !important;
+}
+
+.navbar {
+    background-color: #34495e;
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-brand span {
+    color: #f39c12;
+}
+
+.form-control {
+    background-color: #5d6d7e;
+    border: none;
+    color: white;
+}
+
+.form-control::placeholder {
+    color: #bdc3c7;
+}
+
+.input-group-text {
+    background-color: #5d6d7e;
+    border: none;
+    color: white;
+}
+
+.notification {
+    position: relative;
+    color: white;
+}
+
+.notification .badge {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background-color: #3498db;
+}
+
+.user-profile {
+    color: white;
+}
+
+.user-profile img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.app-cover {
+    background-image: url(images/error-page-pattern.png) !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.pos .pos-menu .nav.nav-tabs .nav-item .nav-link.active {
+    background: rgb(255 255 255 / 40%) !important;
+}
+
+.menu-profile-image img {
+    border-radius: 50% !important;
+    max-width: 40px !important;
+    max-height: 40px !important;
+    float: right;
+}
+
+.card-img-top {
+    max-height: 180px;
+    object-fit: cover;
+}
